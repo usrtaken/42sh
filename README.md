@@ -12,7 +12,7 @@ Authorized functions: all functions included in the libC or the ncurses library.
 
 
 
-MANDATORY
+  MANDATORY
 
 
 
@@ -38,7 +38,7 @@ Concerning command parsing and execution, you must handle:
 
 
 
-OPTIONAL
+  OPTIONAL
 
 
 
@@ -82,3 +82,8 @@ What is missing
 • History (working with arrows but not with '!')
 
 • For each
+
+
+Team
+
+Tom Treboulou, Clément Langhade, Manuel Llamas, Brayan Puigsagur, Clémentine Bourgeois
