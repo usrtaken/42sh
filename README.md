@@ -10,7 +10,12 @@ The project has two sections :
 Authorized functions: all functions included in the libC or the ncurses library.
 
 
+
+
 MANDATORY
+
+
+
 
 This section must be COMPLETELY FUNCTIONAL. Otherwise your grade will be 0.
 
@@ -31,7 +36,11 @@ Concerning command parsing and execution, you must handle:
 •separators: ‘;’, ‘&&’, ‘||’.
 
 
+
+
 OPTIONAL
+
+
 
 
 •inhibitors (‘\’),
@@ -57,7 +66,11 @@ OPTIONAL
 •scripting (a bit harsh though).
 
 
+
+
 What is missing
+
+
 
 
 • Inhibitors (working with only one space after '')
