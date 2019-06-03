@@ -27,7 +27,9 @@ For the different commands and compatibility (syntax), the reference shell used 
 
 Here is a list of desired extras:
 •inhibitors (‘\’),
+
 •globbings (‘*’, ‘?’, ‘[’, ’]’),
+
 •job control (‘&’, fg),
 •backticks (“’),
 •parentheses (‘(’ and ‘)’),
