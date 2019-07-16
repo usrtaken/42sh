@@ -1,6 +1,6 @@
 # 42sh
 
-You must write a Unix SHELL.
+## You must write a Unix SHELL.
 
 The project has two sections :
 
@@ -12,7 +12,7 @@ Authorized functions: all functions included in the libC or the ncurses library.
 
 
 
-  MANDATORY
+### MANDATORY
 
 
 
@@ -38,7 +38,7 @@ Concerning command parsing and execution, you must handle:
 
 
 
-  OPTIONAL
+ ### OPTIONAL
 
 
 
@@ -68,7 +68,7 @@ Concerning command parsing and execution, you must handle:
 
 
 
-What is missing
+### What is missing
 
 
 
@@ -84,6 +84,6 @@ What is missing
 • For each
 
 
-Team
+### Team
 
 Tom Treboulou, Clément Langhade, Manuel Llamas, Brayan Puigsagur, Clémentine Bourgeois
