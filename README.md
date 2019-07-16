@@ -4,9 +4,9 @@
 
 The project has two sections :
 
-• a mandatory section, which MUST be completed: display a prompt, parse and execute some commands (see below),
+- a mandatory section, which **MUST** be completed: display a prompt, parse and execute some commands (see below),
 
-• an optional section, which will only be evaluated if the mandatory section is fully functionnal.
+- an optional section, which will only be evaluated if the mandatory section is fully functionnal.
 Authorized functions: all functions included in the libC or the ncurses library.
 
 
@@ -17,23 +17,23 @@ Authorized functions: all functions included in the libC or the ncurses library.
 
 
 
-This section must be COMPLETELY FUNCTIONAL. Otherwise your grade will be 0.
+This section must be **COMPLETELY FUNCTIONAL.** Otherwise your grade will be 0.
 
 Concerning command parsing and execution, you must handle:
 
-•spaces and tabs,
+- spaces and tabs,
 
-•$PATH and environment,
+- $PATH and environment,
 
-•errors and return value,
+- errors and return value,
 
-•redirections (‘<’, ‘>’, ‘<<’ and ‘>>’),
+- redirections (‘<’, ‘>’, ‘<<’ and ‘>>’),
 
-•pipes (‘|’),
+- pipes (‘|’),
 
-•builtins: cd, echo, exit, setenv, unsetenv,
+- builtins: cd, echo, exit, setenv, unsetenv,
 
-•separators: ‘;’, ‘&&’, ‘||’.
+- separators: ‘;’, ‘&&’, ‘||’.
 
 
 
@@ -43,27 +43,27 @@ Concerning command parsing and execution, you must handle:
 
 
 
-•inhibitors (‘\’),
+- inhibitors (‘\’),
 
-•globbings (‘*’, ‘?’, ‘[’, ’]’),
+- globbings (‘*’, ‘?’, ‘[’, ’]’),
 
-•job control (‘&’, fg),
+- job control (‘&’, fg),
 
-•backticks (“’),
+- backticks (“’),
 
-•parentheses (‘(’ and ‘)’),
+- parentheses (‘(’ and ‘)’),
 
-•variables (local and env),
+- variables (local and env),
 
-•special variables (term, precmd, cwdcmd, cwd, ignoreof for instance),
+- special variables (term, precmd, cwdcmd, cwd, ignoreof for instance),
 
-•history (‘!’),
+- history (‘!’),
 
-•aliases,
+- aliases,
 
-•line edition (multiline, dynamic rebinding, auto-completion dynamic,
+- line edition (multiline, dynamic rebinding, auto-completion dynamic,
 
-•scripting (a bit harsh though).
+- scripting (a bit harsh though).
 
 
 
@@ -73,15 +73,15 @@ Concerning command parsing and execution, you must handle:
 
 
 
-• Inhibitors (working with only one space after '')
+- Inhibitors (working with only one space after '')
 
-• Job Control
+- Job Control
 
-• Parentheses
+- Parentheses
 
-• History (working with arrows but not with '!')
+- History (working with arrows but not with '!')
 
-• For each
+- For each
 
 
 ### Team
